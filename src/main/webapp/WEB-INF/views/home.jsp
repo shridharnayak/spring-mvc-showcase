@@ -43,7 +43,7 @@
                         I am adding this extra line
                  </p>
 <p>
-This is the second line to be added
+This is the second line that I have amended in home.jsp file to test out deployment in OpenShift
 </p>
 		<ul>
 			<li>
